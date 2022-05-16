@@ -1,4 +1,4 @@
-# Natural language processing of webscraped lyrics
+## Natural language processing of webscraped lyrics
 Implementation of different NLP techniques using web scraped lyrics
 
 <img src="https://github.com/piwi3/nlp_for_lyrics/blob/main/code/the_rolling_stones_wrdcld.png" width="600"><br/>
